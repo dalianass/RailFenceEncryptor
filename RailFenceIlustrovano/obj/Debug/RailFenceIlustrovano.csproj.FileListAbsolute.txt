@@ -1,0 +1,123 @@
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.exe.config
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.exe
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.pdb
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csprojAssemblyReference.cache
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\MainWindow.g.cs
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\App.g.cs
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano_MarkupCompile.cache
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano_MarkupCompile.lref
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\MainWindow.baml
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.g.resources
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.Properties.Resources.resources
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.GenerateResource.cache
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.CoreCompileInputs.cache
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.exe
+C:\Users\prame\Desktop\C#, rokovi\Moje vezbanje, RailFenceWPF\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.pdb
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.exe.config
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.exe
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.pdb
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csprojAssemblyReference.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\MainWindow.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\App.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano_MarkupCompile.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano_MarkupCompile.lref
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\MainWindow.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.g.resources
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.Properties.Resources.resources
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.GenerateResource.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.CoreCompileInputs.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.CopyComplete
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.exe
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.pdb
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\Login.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\Registracija.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\Login.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\Registracija.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\Iscrtavanje.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\Iscrtavanje.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Buffers.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Memory.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Text.Json.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.ValueTuple.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Buffers.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Memory.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Text.Json.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\bin\Debug\System.ValueTuple.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\AdminPage.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFenceWPF FINALNO\RailFenceIlustrovano\obj\Debug\AdminPage.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.exe.config
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.exe
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\RailFenceIlustrovano.pdb
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Buffers.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Memory.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Text.Json.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.ValueTuple.dll
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Buffers.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Memory.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Text.Json.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\bin\Debug\System.ValueTuple.xml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csprojAssemblyReference.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\AdminPage.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\Iscrtavanje.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\Login.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\MainWindow.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\Registracija.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\App.g.cs
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano_MarkupCompile.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano_MarkupCompile.lref
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\AdminPage.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\Iscrtavanje.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\Login.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\MainWindow.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\Registracija.baml
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.g.resources
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.Properties.Resources.resources
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.GenerateResource.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.CoreCompileInputs.cache
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.csproj.CopyComplete
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.exe
+C:\Users\prame\Desktop\C#, rokovi\RailFence\RailFenceIlustrovano\obj\Debug\RailFenceIlustrovano.pdb

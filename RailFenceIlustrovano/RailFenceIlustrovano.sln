@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailFenceIlustrovano", "RailFenceIlustrovano.csproj", "{ED15EC83-62E5-4F54-8387-B2B99D1FD257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED15EC83-62E5-4F54-8387-B2B99D1FD257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED15EC83-62E5-4F54-8387-B2B99D1FD257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED15EC83-62E5-4F54-8387-B2B99D1FD257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED15EC83-62E5-4F54-8387-B2B99D1FD257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFFA7A1-3CC7-48FC-A35A-0784B4C60746}
+	EndGlobalSection
+EndGlobal
