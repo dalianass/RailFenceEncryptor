@@ -20,6 +20,7 @@ using System.Windows.Threading;
 
 namespace RailFenceIlustrovano
 {
+
     public partial class Iscrtavanje : Page
     {
         static HttpClient client = new HttpClient();
@@ -318,8 +319,8 @@ namespace RailFenceIlustrovano
 
         private async void PrikaziDesifrovanjaBtn_Click(object sender, RoutedEventArgs e)
         {
-            DataGridSifrovanja.Visibility = System.Windows.Visibility.Hidden;
-            DataGridDesifrovanja.Visibility = System.Windows.Visibility.Visible;
+            DataGridSifrovanja.Visibility = Visibility.Hidden;
+            DataGridDesifrovanja.Visibility = Visibility.Visible;
             List<Desifrovanje> mojaDesifrovanja = await GetMojaDesifrovanja(myId, "http://localhost:50078/api/Desifrovanje/moja-desifrovanja");
             foreach (var item in mojaDesifrovanja)
             {
@@ -450,13 +451,8 @@ namespace RailFenceIlustrovano
         private void DodajSlovaNaMatricu(char[][] matrix, string clearText, Grid grid)
         {
             int rowIncrement = 1;
-            pozicijeSlovaUKoloniSif = new int[clearText.Length];
-            pozicijeSlovaUVrstiSif = new int[clearText.Length];
             for (int row = 0, col = 0; col < matrix[row].Length; col++)
             {
-                pozicijeSlovaUKoloniSif[col] = col;
-                pozicijeSlovaUVrstiSif[col] = row;
-
                 //ako stigne do poslednjeg reda, mnozi sa -1 da bi redovi isli 0, 1, 2, 3, pa - 2, 1, 0
                 // a ako bude -1, znaci da je na redu nulti red, pa treba da se mnozi sa -1 da ode na prvi red
                 if (
@@ -485,6 +481,51 @@ namespace RailFenceIlustrovano
             }
         }
 
+        private void DodajSlovaNaMatricuDes(char[][] matrix, string clearText, Grid grid)
+        {
+            pozicijeSlovaUKoloniSif = new int[clearText.Length];
+            pozicijeSlovaUVrstiSif = new int[clearText.Length];
+
+            int rowIncrement = 1;
+            int textIdx = 0;
+
+            for (int selectedRow = 0; selectedRow < matrix.Length; selectedRow++)
+            {
+                for (int row = 0, col = 0; col < matrix[row].Length; col++)
+                {
+                    if (row + rowIncrement == matrix.Length ||
+                        row + rowIncrement == -1)
+                    {
+                        rowIncrement *= -1;
+                    }
+
+                    //ako se poklapaju row i selectedRow -> hvata podatke iz tog celog reda i upisuje ih tim redom
+                    //obezbedjuje da se prolazi samo kroz mesta gde imamo podatke u matrici
+                    if (row == selectedRow)
+                    {
+                        pozicijeSlovaUKoloniSif[col] = col;
+                        pozicijeSlovaUVrstiSif[col] = row;
+
+                        TextBox tb = new TextBox()
+                        {
+                            Text = (clearText[textIdx++]).ToString().ToUpper(),
+                            Margin = new Thickness(10),
+                            FontSize = 24,
+                            Background = Brushes.Transparent,
+                            Width = 150,
+                            Height = 100
+                        };
+
+                        Grid.SetRow(tb, row);
+                        Grid.SetColumn(tb, col);
+                        grid.Children.Add(tb);
+                    }
+                    row += rowIncrement;
+                }
+            }
+        }
+
+
 
         private string Desifriraj(string cipherText, int key)
         {
@@ -497,7 +538,7 @@ namespace RailFenceIlustrovano
             int textIdx = 0;
 
             var grid = IscrtajMatricu(key, cipherText.Length); //rows and cols
-            DodajSlovaNaMatricu(matrix, cipherText, grid);
+            DodajSlovaNaMatricuDes(matrix, cipherText, grid);
 
             for (int selectedRow = 0; selectedRow < matrix.Length; selectedRow++)
             {

@@ -42,15 +42,6 @@ namespace RailFenceIlustrovano
             public string Password { get; set; }
         }
 
-        //public class LoggedInUser
-        //{
-        //    public string Id { get; set; }
-        //    public string UserName { get; set; }
-        //    public string UserSurname { get; set; }
-        //    public string Email { get; set; }
-        //    public string Token { get; set; }
-        //}
-
     static async Task LoginUser(string email, string pass, string putanja)
         {
             LoginData loginData = new LoginData()
@@ -106,7 +97,6 @@ namespace RailFenceIlustrovano
             //this.NavigationService.Navigate(new Iscrtavanje());
             if (role == "Korisnik")
             {
-                //MessageBox.Show("KORISNIK");
                 this.NavigationService.Navigate(new Iscrtavanje());
             }
             else if (role == "Admin")
